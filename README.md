@@ -60,7 +60,7 @@ où on veut utiliser `Spring Data` ce n'est pas la peine d'installer tous les mo
 
 <br />
 
-<img src="./imgs/arch_spring.png" alt="architecture de l'ecosystème Spring" />
+<img src="./imgs/spring_arch.png" alt="architecture de l'ecosystème Spring" />
 
 <br />
 <br />
@@ -70,8 +70,8 @@ où on veut utiliser `Spring Data` ce n'est pas la peine d'installer tous les mo
 <p>
 <b>Spring Core :</b> C'est la fondation du `Framework Spring`, il fournit `le conteneur d'inversion de contrôle`, `la gestion de cycle de vie des beans`, 
 `la gestion d’environnement`, `la gestion de ressources`, `la gestion d'évènements`, `l'internationnalisation (i18n)`...
-<br />
-<a href="./SpringCore">👀 Allez plus loin</a>
+<br /> 
+<a href="./SpringCore">👀 Voir le cours</a>
 </p>
 
 <br />
