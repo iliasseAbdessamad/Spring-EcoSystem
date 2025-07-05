@@ -54,6 +54,9 @@ Le framework `Spring Framework` est modulaire, vous n'installer que les modules 
 où on veut utiliser `Spring Data` ce n'est pas la peine d'installer tous les modules qui composent **Spring Framework** telques 
 `spring-web`, `spring-websocket`, `spring-messaging`
 
+<br />
+<br />
+
 ## 📝 Architecture de `Spring Ecosystem` :
 
 **Note** : Dans ce schéma on ne montre pas les dépendences entre les modules constituants `Spring Framework`
